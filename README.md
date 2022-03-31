@@ -31,6 +31,8 @@ Information of apartments in Berlin for digital nomads.
 | [Design Apartments](https://www.designapartments-berlin.de) | Managed Condominium | ✓ |  | ✓ | ✓ |
 | [OXO](https://oxo-berlin.de) | Managed Condominium | ✓ |  | ✓ | ✓ |
 | [Quarters](https://quarters.com) | Managed Condominium, Shared | ✓ | ✓ | ✓ | ✓ |
+| [66Monkeys](https://www.66monkeys.de/) | Managed Condominium | ✓ | ✓ | ✓ | ✓ |
+
 
 [^1]: Due to the laws, some apartments don't support long term rental (> 6 months): https://crocodilian.de/short-term-rental-blog/berlin-laws-letting-of-furnished-flats.
 [^2]: If you can register the apartment as your address. Important for getting a visa: https://allaboutberlin.com/guides/anmeldung-in-english-berlin.
